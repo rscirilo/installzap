@@ -18,7 +18,7 @@
   "license": "MIT",
   "dependencies": {
     //"@adiwajshing/baileys": "github:adiwajshing/Baileys",
-    "@adiwajshing/baileys": "github.com:salman0ansari/whatsapp-api-nodejs",
+    "@adiwajshing/baileys": "github:WhiskeysSockets/Baileys",
     "@adiwajshing/keyed-db": "^0.2.4",
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
     "@google-cloud/dialogflow": "^4.7.0",
